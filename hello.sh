@@ -4,4 +4,4 @@ echo "hello"
 echo "test"
 echo "xx"
 
-echo "bash test"
+echo "bash"
