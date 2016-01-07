@@ -4,3 +4,10 @@ int d=3
 int e=4
 
 int merge=1
+int f=5
+char 
+asd
+asd
+fdg
+
+
