@@ -5,9 +5,11 @@ int e=4
 
 int merge=1
 int f=5
-char 
+char   sadasd
 asd
-asd
-fdg
+fdg123
 
 int tab=2
+xxx
+aaa
+
